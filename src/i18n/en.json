@@ -103,6 +103,9 @@
       }
     ]
   },
+  "zeroBand": {
+    "items": ["Zero searching.", "Zero tools to learn.", "Zero training."]
+  },
   "centralisationService": {
     "badge": "Additional service",
     "title": "Nothing documented yet?",

@@ -103,6 +103,9 @@
       }
     ]
   },
+  "zeroBand": {
+    "items": ["Zéro recherche.", "Zéro outil à apprendre.", "Zéro formation."]
+  },
   "centralisationService": {
     "badge": "Service complémentaire",
     "title": "Vous n'avez rien de documenté ?",

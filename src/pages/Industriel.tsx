@@ -1,6 +1,7 @@
 import Header from "@/components/landing/Header";
 import Footer from "@/components/landing/Footer";
 import ServiceCentralisation from "@/components/landing/ServiceCentralisation";
+import ZeroBand from "@/components/landing/ZeroBand";
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Check, Shield } from "lucide-react";
 import { useTranslation } from "react-i18next";
@@ -34,6 +35,8 @@ const Industriel = () => {
             </p>
           </div>
         </section>
+
+        <ZeroBand />
 
         {/* Problem */}
         <section className="section-padding section-alt">

@@ -3,6 +3,7 @@ import Hero from "@/components/landing/Hero";
 import Problem from "@/components/landing/Problem";
 import Solution from "@/components/landing/Solution";
 import ServiceCentralisation from "@/components/landing/ServiceCentralisation";
+import ZeroBand from "@/components/landing/ZeroBand";
 import HowItWorks from "@/components/landing/HowItWorks";
 import Safety from "@/components/landing/Safety";
 import Clients from "@/components/landing/Clients";
@@ -17,6 +18,7 @@ const Index = () => {
       <Header />
       <main>
         <Hero />
+        <ZeroBand />
         <Clients />
         <Problem />
         <Solution />
