@@ -1,0 +1,423 @@
+{
+  "sectorSelect": {
+    "title": "What's your reality?",
+    "subtitle": "ExpertSync adapts to your industry. Choose your sector to discover how we can help.",
+    "discover": "Discover",
+    "industrial": {
+      "title": "Manufacturing, Distribution & Processing",
+      "description": "Maintenance procedures, quality control, production protocols — make operational expertise accessible to your field teams."
+    },
+    "financial": {
+      "title": "Financial Services",
+      "description": "Regulatory compliance, internal policies, audit procedures — give your teams instant access to the right answers."
+    }
+  },
+  "header": {
+    "cta": "Request a call"
+  },
+  "hero": {
+    "badge": "Industrial Equipment Manufacturers",
+    "title": "Every unanswered question is costing you money.",
+    "titleFaded": "",
+    "subtitle": "Downtime, assembly errors, rework, delivery delays. When your technicians can't find the right spec at the right time, your margins pay the price. ExpertSync delivers instant answers from your technical manuals. Zero wasted time.",
+    "cta": "See how much you're losing. 10-min call.",
+    "secondary": "See how it works",
+    "reassurance": "Typical setup: 7–14 days"
+  },
+  "problem": {
+    "title": "Two situations. The same hidden cost.",
+    "subtitle": "Whichever applies to you, the result is identical: wasted time, preventable errors, and margin slipping away. ExpertSync solves both.",
+    "items": [
+      {
+        "title": "Case 1: Your data is centralized. Nobody uses it.",
+        "description": "You invested months (and thousands of dollars) building a clean knowledge base. But on the floor, your people search for 20 minutes, can't find the answer, and end up calling a senior or improvising. Your investment sits idle, the same mistakes keep happening, and the documentation goes stale without anyone noticing."
+      },
+      {
+        "title": "Case 2: Nothing has been centralized yet.",
+        "description": "Critical know-how lives in the heads of 2 or 3 key people. When one of them is out, sick, or retires, production slows down or stops. New hires take months to ramp up, and every gap in knowledge transfer costs you in rework, delays, and unhappy customers."
+      }
+    ]
+  },
+  "solution": {
+    "title": "An AI that follows your specs. To the letter.",
+    "subtitle": "ExpertSync reads your machine manuals, spec sheets, assembly procedures, and component specifications. It answers strictly based on what's documented. No hallucinations. No guesses.",
+    "features": [
+      "Grounded exclusively in your internal technical documents",
+      "Answers based on your exact specifications, not approximations",
+      "Every answer traces back to the source manual, section, and page",
+      "Designed for shop floor decisions in equipment manufacturing"
+    ],
+    "question": "\"What's the torque spec for the M12 flange bolt on the PH-400 hydraulic press?\"",
+    "answerLabel": "ExpertSync answer",
+    "answer": "\"Apply 85 Nm ± 5 Nm. Use calibrated torque wrench. Star pattern tightening sequence. Verify with angle measurement per Section 4.2.3.\"",
+    "answerSource": "Source: PH-400 Technical Manual Rev.7, Section 4.2.3, p.47",
+    "notDocumentedLabel": "If not documented",
+    "notDocumented": "\"This specification is not available in the current documentation. Please consult your engineering team.\""
+  },
+  "howItWorks": {
+    "title": "How ExpertSync works",
+    "subtitle": "Intentionally scoped to deliver value fast: one production line, one equipment type, one document corpus. Up and running in 7 to 14 days.",
+    "steps": [
+      {
+        "title": "Select one use case",
+        "description": "Choose a specific area: equipment assembly, preventive maintenance, calibration, quality control, or commissioning."
+      },
+      {
+        "title": "We ingest your documents",
+        "description": "We validate, structure, and index your machine manuals, spec sheets, and existing procedures. No rewriting needed."
+      },
+      {
+        "title": "Your team gets answers",
+        "description": "Your technicians ask questions in plain language and get exact answers instantly, with full source traceability."
+      }
+    ],
+    "note": "Step 1 is deliberately limited so you can validate results before expanding. Typical implementation: 7–14 days."
+  },
+  "safety": {
+    "title": "Your technical data. Your control. Maximum security.",
+    "subtitle": "ExpertSync is built for industrial equipment manufacturers where intellectual property and technical confidentiality are non-negotiable.",
+    "points": [
+      {
+        "title": "No public AI training",
+        "description": "Your drawings, specifications, and procedures are never used to train external models."
+      },
+      {
+        "title": "Private data infrastructure",
+        "description": "Your technical documents stay within a dedicated, isolated environment."
+      },
+      {
+        "title": "Full document control",
+        "description": "You decide exactly which manuals and spec sheets are indexed. Add or remove at any time."
+      },
+      {
+        "title": "Transparent traceability",
+        "description": "Every answer links to the source manual, section, page, and document version."
+      },
+      {
+        "title": "Continuous knowledge optimization",
+        "description": "Administrators see unanswered questions. Update procedures or add new manuals instantly."
+      },
+      {
+        "title": "Air-gapped deployment options",
+        "description": "To protect your intellectual property, ExpertSync can be deployed on your private cloud or local servers."
+      }
+    ]
+  },
+  "clients": {
+    "title": "Our achievements",
+    "subtitle": "They trust us.",
+    "list": ["Merkur", "Les Productions BRB"]
+  },
+  "pricing": {
+    "title": "Simple, predictable pricing",
+    "subtitle": "Designed to start small and expand only once value is proven.",
+    "plan": "ExpertSync, Step 1",
+    "price": "$500",
+    "period": "/month",
+    "implementation": "+ Fixed implementation fee",
+    "timeline": "Implementation in 7–14 days",
+    "cta": "Request a fit call",
+    "included": [
+      "One use case, one team",
+      "Technical manual ingestion",
+      "AI answers aligned with your specifications",
+      "Source traceability on every answer",
+      "Dedicated support during pilot"
+    ],
+    "noCommitment": "No long-term commitment. Cancel anytime."
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "items": [
+      {
+        "question": "Is this a replacement for our technical manuals?",
+        "answer": "No. ExpertSync doesn't replace your manuals, it makes them accessible. Your spec sheets and procedures remain the source of truth. ExpertSync helps your technicians find the right specification faster."
+      },
+      {
+        "question": "Can it expand to other production lines?",
+        "answer": "Yes. Step 1 is limited to one use case to validate accuracy. Once proven, ExpertSync can cover all your equipment, production lines, and sites."
+      },
+      {
+        "question": "Is there a free trial?",
+        "answer": "We don't offer open free trials. ExpertSync starts with a scoped pilot to ensure accurate results with your specific technical documents."
+      },
+      {
+        "question": "Who is this designed for?",
+        "answer": "ExpertSync is built for industrial equipment manufacturers: assembly technicians, maintenance engineers, quality teams, and production managers who need fast access to exact specifications."
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Stop losing money on preventable errors.",
+    "titleFaded": "10 minutes to see how much you can recover.",
+    "subtitle": "We'll look at your operations together. If ExpertSync can reduce your losses, you'll know in 10 minutes. No pitch. No pressure.",
+    "cta": "Calculate my preventable losses"
+  },
+  "footer": {
+    "rights": "© {{year}} ExpertSync. All rights reserved."
+  },
+  "industriel": {
+    "hero": {
+      "badge": "Manufacturing · Distribution · Processing",
+      "title": "Every repeated question costs you time, money, and margin.",
+      "titleFaded": "",
+      "subtitle": "Production errors, downtime, overloaded senior staff. When information is scattered, your profitability absorbs the hit. ExpertSync eliminates those losses by making operational knowledge accessible in seconds.",
+      "cta": "See how much you're losing. 10-min call.",
+      "reassurance": "Typical setup: 7–14 days"
+    },
+    "problem": {
+      "title": "Two scenarios. The same hole in your margin.",
+      "subtitle": "Whether you've centralized or not, the cost is real: errors, rework, downtime, and overloaded staff. ExpertSync tackles both.",
+      "items": [
+        {
+          "title": "Case 1: Your documentation exists. Nobody uses it.",
+          "description": "You invested in building procedures, manuals, and spec sheets. But on the floor, technicians would rather call a senior or work from memory than spend 20 minutes searching a PDF. Your documentation investment sits idle, the same mistakes keep happening, and the content goes stale without anyone noticing."
+        },
+        {
+          "title": "Case 2: All the know-how lives in 2 or 3 heads.",
+          "description": "Nothing is centralized. When one of your experts is out or retires, production slows down. New hires take months to become autonomous, and every verbal handoff opens the door to costly mistakes: rework, non-conformities, delivery penalties."
+        }
+      ]
+    },
+    "solution": {
+      "title": "An AI that follows your rules. Literally.",
+      "subtitle": "ExpertSync reads your procedures, manuals, and internal rules. It answers questions strictly based on what's documented. No hallucinations. No guesses. No creative interpretation.",
+      "features": [
+        "Grounded exclusively in your internal documents",
+        "Answers based on explicit rules, not probabilities",
+        "Every answer traces back to its source document",
+        "Designed for real operational decisions, not creative tasks"
+      ],
+      "question": "\"What's the torque spec for the M12 flange bolt on Line 3?\"",
+      "answerLabel": "ExpertSync answer",
+      "answer": "\"Apply 85 Nm ± 5 Nm. Use calibrated torque wrench. Verify with angle measurement per Section 4.2.3.\"",
+      "answerSource": "Source: Maintenance Manual Rev.7, Section 4.2.3, p.47",
+      "notDocumentedLabel": "If not documented",
+      "notDocumented": "\"This information is not available in the current document set. Please consult your engineering team.\""
+    },
+    "howItWorks": {
+      "title": "How ExpertSync works",
+      "subtitle": "Intentionally scoped to deliver value fast: one team, one use case, one document corpus. Up and running in 7 to 14 days.",
+      "steps": [
+        {
+          "title": "Select one use case",
+          "description": "Choose a specific operational area: inspections, maintenance procedures, quality checklists, production protocols, or processing guidelines."
+        },
+        {
+          "title": "We ingest your documents",
+          "description": "We validate, structure, and index your existing manuals and procedures. No rewriting needed, we work with what you already have."
+        },
+        {
+          "title": "Your team gets answers",
+          "description": "Field teams ask questions in plain language and get rule-accurate answers instantly, with full source traceability."
+        }
+      ],
+      "note": "Step 1 is deliberately limited so you can validate results before expanding. Typical implementation: 7–14 days."
+    },
+    "safety": {
+      "title": "Your data. Your control. Maximum security.",
+      "subtitle": "ExpertSync is built for manufacturing, distribution, and processing environments where data privacy and traceability are non-negotiable.",
+      "points": [
+        {
+          "title": "No public AI training",
+          "description": "Your data is never used to train external models."
+        },
+        {
+          "title": "Private data infrastructure",
+          "description": "Documents stay within a dedicated, isolated environment."
+        },
+        {
+          "title": "Full document control",
+          "description": "You decide exactly which documents are indexed. Add or remove at any time."
+        },
+        {
+          "title": "Transparent traceability",
+          "description": "Every answer links to the source section, page, and document version."
+        },
+        {
+          "title": "Continuous knowledge optimization",
+          "description": "Administrators have a dedicated Command Center to view questions the AI couldn't answer. Update procedures or add new manuals instantly."
+        },
+        {
+          "title": "Air-gapped deployment options",
+          "description": "For high-security environments, ExpertSync can be deployed on your private cloud or local servers."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Simple, predictable pricing",
+      "subtitle": "Designed to start small and expand only once value is proven.",
+      "plan": "ExpertSync, Step 1",
+      "price": "$500",
+      "period": "/month",
+      "implementation": "+ Fixed implementation fee",
+      "timeline": "Implementation in 7–14 days",
+      "cta": "Request a fit call",
+      "included": [
+        "One use case, one team",
+        "Document ingestion & validation",
+        "Rule-accurate AI answers",
+        "Source traceability on every answer",
+        "Dedicated support during pilot"
+      ],
+      "noCommitment": "No long-term commitment. Cancel anytime."
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "items": [
+        {
+          "question": "Is this a replacement for our procedures?",
+          "answer": "No. ExpertSync does not replace your procedures, it makes them accessible. Your manuals and SOPs remain the single source of truth."
+        },
+        {
+          "question": "Can it expand to other teams later?",
+          "answer": "Yes. Step 1 is intentionally limited to one team and one use case so you can validate accuracy and value."
+        },
+        {
+          "question": "Is there a free trial?",
+          "answer": "We don't offer open free trials. ExpertSync starts with a scoped pilot to ensure accurate results."
+        },
+        {
+          "question": "Who is this designed for?",
+          "answer": "ExpertSync is built for operations and field teams in manufacturing, distribution, and processing industries."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Stop losing money on preventable errors.",
+      "titleFaded": "10 minutes to see how much you can recover.",
+      "subtitle": "We'll look at your operations together. If ExpertSync can reduce your losses, you'll know in 10 minutes. No pitch. No pressure.",
+      "cta": "Calculate my preventable losses"
+    }
+  },
+  "financier": {
+    "hero": {
+      "badge": "Step 1: Start with one use case",
+      "title": "Your teams waste time searching for the right regulatory answer?",
+      "subtitle": "ExpertSync gives your financial services teams instant access to exact answers, based solely on your internal policies and regulatory frameworks.",
+      "cta": "Request a 10-minute fit call",
+      "reassurance": "Typical setup: 7–14 days"
+    },
+    "problem": {
+      "title": "Two realities. The same regulatory risk.",
+      "subtitle": "Whether your policies are centralized or not, your teams make decisions every day. Without access to the right answer, the risk is the same.",
+      "items": [
+        {
+          "title": "Case 1: Your policies are centralized. Nobody reads them.",
+          "description": "You invested in building a library of policies, guidelines, and procedures. But in the field, advisors and analysts call compliance or rely on memory rather than open an 80-page document. The result: rules applied from memory, outdated versions in use, and regulatory risk quietly building up."
+        },
+        {
+          "title": "Case 2: Nothing is centralized. Everything routes through 2 or 3 experts.",
+          "description": "The rules live in the heads of a few overloaded compliance officers. Every question queues up, every absence slows the organization, and new hires take months to become autonomous. Each blind spot turns into a costly non-compliance finding at the next audit."
+        }
+      ]
+    },
+    "solution": {
+      "title": "An AI that follows your rules. To the letter.",
+      "subtitle": "ExpertSync reads your policies, regulatory frameworks, and internal procedures. It answers strictly based on what's documented. No hallucinations. No creative interpretation.",
+      "features": [
+        "Grounded exclusively in your internal documents and policies",
+        "Answers based on explicit rules, not probabilities",
+        "Every answer traces back to its source: policy, section, page",
+        "Designed for compliance and regulatory decisions"
+      ],
+      "questionLabel": "Question",
+      "question": "\"What are the KYC requirements for a high-risk client under AML guidelines?\"",
+      "answerLabel": "ExpertSync answer",
+      "answer": "\"Enhanced identity verification required. Obtain source of funds declaration. Compliance officer approval mandatory before account opening. Periodic review every 6 months.\"",
+      "answerSource": "Source: KYC Policy v3.2, Section 5.4.1, p.23"
+    },
+    "howItWorks": {
+      "title": "How ExpertSync works",
+      "subtitle": "Intentionally scoped to deliver value fast: one team, one use case, one document corpus. Up and running in 7 to 14 days.",
+      "steps": [
+        {
+          "title": "Select one use case",
+          "description": "Choose a specific area: KYC/AML compliance, audit procedures, credit policies, risk management guidelines, or industry regulations."
+        },
+        {
+          "title": "We ingest your documents",
+          "description": "We validate, structure, and index your existing policies and procedures. No rewriting needed."
+        },
+        {
+          "title": "Your team gets answers",
+          "description": "Your teams ask questions in plain language and get compliant answers instantly, with full source traceability."
+        }
+      ]
+    },
+    "safety": {
+      "title": "Your data. Your control. Maximum compliance.",
+      "subtitle": "ExpertSync is built for financial environments where data privacy and regulatory compliance are non-negotiable.",
+      "points": [
+        {
+          "title": "No public AI training",
+          "description": "Your data is never used to train external models."
+        },
+        {
+          "title": "Private data infrastructure",
+          "description": "Documents stay within a dedicated, isolated environment, compliant with industry requirements."
+        },
+        {
+          "title": "Full document control",
+          "description": "You decide exactly which documents are indexed. Add or remove at any time."
+        },
+        {
+          "title": "Complete traceability",
+          "description": "Every answer links to the source policy, section, and document version — essential for audits."
+        },
+        {
+          "title": "Built-in audit trail",
+          "description": "Every question asked and answer provided is logged. Ideal for demonstrating due diligence during audits."
+        },
+        {
+          "title": "Air-gapped deployment options",
+          "description": "For high-security institutions, ExpertSync can be deployed on your private cloud. Your data never leaves your perimeter."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Simple, predictable pricing",
+      "subtitle": "Designed to start small and expand only once value is proven.",
+      "plan": "ExpertSync, Step 1",
+      "price": "$500",
+      "period": "/month",
+      "implementation": "+ Fixed implementation fee",
+      "cta": "Request a fit call",
+      "included": [
+        "One use case, one team",
+        "Regulatory document ingestion & validation",
+        "Policy-compliant AI answers",
+        "Source traceability on every answer",
+        "Dedicated support during pilot"
+      ],
+      "noCommitment": "No long-term commitment. Cancel anytime."
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "items": [
+        {
+          "question": "Does this replace our compliance team?",
+          "answer": "No. ExpertSync doesn't replace your compliance team, it makes them more effective."
+        },
+        {
+          "question": "Can it expand to other departments?",
+          "answer": "Yes. Step 1 targets one team and one use case to validate value. Then ExpertSync can cover other areas: credit, risk, audit, operations."
+        },
+        {
+          "question": "Is it compliant with regulatory requirements?",
+          "answer": "ExpertSync is built with compliance in mind: isolated data, full traceability, built-in audit trail."
+        },
+        {
+          "question": "Who is this designed for?",
+          "answer": "ExpertSync is built for compliance, audit, risk management teams, and advisors in financial institutions, brokerage firms, and insurance companies."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Start with one use case. Prove the value.",
+      "titleFaded": "Expand only if it makes sense.",
+      "subtitle": "A 10-minute call to see if ExpertSync fits your institution. No pitch deck. No pressure.",
+      "cta": "Request a 10-minute fit call"
+    }
+  }
+}

@@ -1,0 +1,423 @@
+{
+  "sectorSelect": {
+    "title": "Quelle est votre réalité ?",
+    "subtitle": "ExpertSync s'adapte à votre secteur. Choisissez votre domaine pour découvrir comment nous pouvons vous aider.",
+    "discover": "Découvrir",
+    "industrial": {
+      "title": "Manufacturier, Distribution & Transformation",
+      "description": "Procédures de maintenance, contrôle qualité, protocoles de production — rendez l'expertise opérationnelle accessible à vos équipes terrain."
+    },
+    "financial": {
+      "title": "Services Financiers",
+      "description": "Conformité réglementaire, politiques internes, procédures d'audit — donnez à vos équipes un accès instantané aux bonnes réponses."
+    }
+  },
+  "header": {
+    "cta": "Demander un appel"
+  },
+  "hero": {
+    "badge": "Fabricants d'équipements industriels",
+    "title": "Chaque question sans réponse vous coûte de l'argent.",
+    "titleFaded": "",
+    "subtitle": "Temps d'arrêt, erreurs d'assemblage, reprises, retards de livraison. Quand vos techniciens n'ont pas la bonne information au bon moment, c'est votre marge qui en paie le prix. ExpertSync donne des réponses instantanées basées sur vos manuels techniques. Zéro perte de temps.",
+    "cta": "Voir combien vous perdez. Appelez-nous 10 min.",
+    "secondary": "Voir comment ça fonctionne",
+    "reassurance": "Mise en place typique : 7–14 jours"
+  },
+  "problem": {
+    "title": "Deux situations. Le même coût caché.",
+    "subtitle": "Quel que soit votre cas, le résultat est identique : du temps perdu, des erreurs évitables et de la marge qui s'évapore. ExpertSync règle les deux.",
+    "items": [
+      {
+        "title": "Cas 1 : Vos données sont centralisées. Personne ne les consulte.",
+        "description": "Vous avez investi des mois (et des milliers de dollars) à monter une base documentaire propre. Mais sur le terrain, vos employés cherchent 20 minutes, ne trouvent pas, et finissent par appeler un senior ou improviser. Résultat : votre investissement dort, les erreurs persistent, et la documentation devient obsolète sans que personne ne s'en aperçoive."
+      },
+      {
+        "title": "Cas 2 : Rien n'a jamais été centralisé.",
+        "description": "L'expertise vit dans la tête de 2 ou 3 personnes clés. Quand l'une d'elles est absente, malade ou part à la retraite, la production ralentit ou s'arrête. Les nouveaux arrivants mettent des mois à monter en compétence, et chaque erreur de transmission coûte cher en reprises, retards et clients déçus."
+      }
+    ]
+  },
+  "solution": {
+    "title": "Une IA qui suit vos specs. À la lettre.",
+    "subtitle": "ExpertSync lit vos manuels machines, fiches techniques, procédures d'assemblage et spécifications de composants. Il répond strictement en se basant sur ce qui est documenté. Pas d'hallucinations. Pas de suppositions.",
+    "features": [
+      "Ancré exclusivement dans vos documents techniques internes",
+      "Réponses basées sur vos spécifications exactes, pas des approximations",
+      "Chaque réponse renvoie au manuel source, section et page",
+      "Conçu pour les décisions terrain en atelier de fabrication"
+    ],
+    "question": "« Quel est le couple de serrage pour le boulon à bride M12 sur la presse hydraulique PH-400 ? »",
+    "answerLabel": "Réponse ExpertSync",
+    "answer": "« Appliquer 85 Nm ± 5 Nm. Utiliser clé dynamométrique calibrée. Séquence de serrage en étoile. Vérifier avec mesure d'angle selon Section 4.2.3. »",
+    "answerSource": "Source : Manuel technique PH-400 Rév.7, Section 4.2.3, p.47",
+    "notDocumentedLabel": "Si non documenté",
+    "notDocumented": "« Cette spécification n'est pas disponible dans la documentation actuelle. Veuillez consulter votre équipe d'ingénierie. »"
+  },
+  "howItWorks": {
+    "title": "Comment ExpertSync fonctionne",
+    "subtitle": "Volontairement ciblé pour livrer de la valeur rapidement : une ligne de production, un type d'équipement, un corpus documentaire. Opérationnel en 7 à 14 jours.",
+    "steps": [
+      {
+        "title": "Sélectionnez un cas d'usage",
+        "description": "Choisissez un domaine spécifique : assemblage d'équipements, maintenance préventive, calibration, contrôle qualité ou mise en service."
+      },
+      {
+        "title": "Nous intégrons vos documents",
+        "description": "Nous validons, structurons et indexons vos manuels machines, fiches techniques et procédures existantes. Aucune réécriture nécessaire."
+      },
+      {
+        "title": "Votre équipe obtient des réponses",
+        "description": "Vos techniciens posent leurs questions en langage courant et obtiennent des réponses exactes instantanément, avec traçabilité complète des sources."
+      }
+    ],
+    "note": "L'étape 1 est volontairement limitée pour que vous puissiez valider les résultats avant d'étendre. Implémentation typique : 7 à 14 jours."
+  },
+  "safety": {
+    "title": "Vos données techniques. Votre contrôle. Sécurité maximale.",
+    "subtitle": "ExpertSync est conçu pour les fabricants d'équipements industriels où la propriété intellectuelle et la confidentialité technique sont non négociables.",
+    "points": [
+      {
+        "title": "Aucun entraînement IA public",
+        "description": "Vos dessins, spécifications et procédures ne sont jamais utilisés pour entraîner des modèles externes."
+      },
+      {
+        "title": "Infrastructure de données privée",
+        "description": "Vos documents techniques restent dans un environnement dédié et isolé."
+      },
+      {
+        "title": "Contrôle total des documents",
+        "description": "Vous décidez exactement quels manuels et fiches techniques sont indexés. Ajoutez ou retirez à tout moment."
+      },
+      {
+        "title": "Traçabilité transparente",
+        "description": "Chaque réponse renvoie au manuel source, la section, la page et la version du document."
+      },
+      {
+        "title": "Optimisation continue des connaissances",
+        "description": "Les administrateurs voient les questions sans réponse. Mettez à jour les procédures ou ajoutez de nouveaux manuels instantanément."
+      },
+      {
+        "title": "Déploiement en environnement isolé",
+        "description": "Pour protéger votre propriété intellectuelle, ExpertSync peut être déployé sur votre cloud privé ou vos serveurs locaux."
+      }
+    ]
+  },
+  "clients": {
+    "title": "Nos réalisations",
+    "subtitle": "Ils nous font confiance.",
+    "list": ["Merkur", "Les Productions BRB"]
+  },
+  "pricing": {
+    "title": "Tarification simple et prévisible",
+    "subtitle": "Conçu pour commencer petit et étendre seulement une fois la valeur prouvée.",
+    "plan": "ExpertSync, Étape 1",
+    "price": "500 $",
+    "period": "/mois",
+    "implementation": "+ Frais fixe d'implémentation",
+    "timeline": "Implémentation en 7 à 14 jours",
+    "cta": "Demander un appel",
+    "included": [
+      "Un cas d'usage, une équipe",
+      "Intégration de vos manuels techniques",
+      "Réponses IA conformes à vos spécifications",
+      "Traçabilité des sources sur chaque réponse",
+      "Support dédié pendant le pilote"
+    ],
+    "noCommitment": "Aucun engagement à long terme. Annulez à tout moment."
+  },
+  "faq": {
+    "title": "Questions fréquemment posées",
+    "items": [
+      {
+        "question": "Est-ce un remplacement de nos manuels techniques ?",
+        "answer": "Non. ExpertSync ne remplace pas vos manuels, il les rend accessibles. Vos fiches techniques et procédures restent la source de vérité. ExpertSync aide vos techniciens à trouver la bonne spécification plus rapidement."
+      },
+      {
+        "question": "Peut-on l'étendre à d'autres lignes de production ?",
+        "answer": "Oui. L'étape 1 est limitée à un cas d'usage pour valider la précision. Une fois prouvé, ExpertSync peut couvrir tous vos équipements, lignes de production et sites."
+      },
+      {
+        "question": "Y a-t-il un essai gratuit ?",
+        "answer": "Nous n'offrons pas d'essai gratuit ouvert. ExpertSync commence par un pilote ciblé pour garantir des résultats précis avec vos documents techniques spécifiques."
+      },
+      {
+        "question": "À qui est-ce destiné ?",
+        "answer": "ExpertSync est conçu pour les fabricants d'équipements industriels : techniciens d'assemblage, ingénieurs de maintenance, équipes qualité et responsables de production qui ont besoin d'un accès rapide aux spécifications exactes."
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Arrêtez de perdre de l'argent sur des erreurs évitables.",
+    "titleFaded": "10 minutes pour voir combien vous pouvez récupérer.",
+    "subtitle": "On regarde vos opérations ensemble. Si ExpertSync peut réduire vos pertes, vous le saurez en 10 minutes. Pas de pitch. Pas de pression.",
+    "cta": "Calculer mes pertes évitables"
+  },
+  "footer": {
+    "rights": "© {{year}} ExpertSync. Tous droits réservés."
+  },
+  "industriel": {
+    "hero": {
+      "badge": "Manufacturier · Distribution · Transformation",
+      "title": "Chaque question répétitive vous coûte du temps, de l'argent et de la marge.",
+      "titleFaded": "",
+      "subtitle": "Erreurs de production, temps d'arrêt, personnel senior surchargé. Quand l'information est dispersée, c'est votre rentabilité qui absorbe le choc. ExpertSync élimine ces pertes en rendant le savoir opérationnel accessible en secondes.",
+      "cta": "Voir combien vous perdez. Appelez-nous 10 min.",
+      "reassurance": "Mise en place typique : 7–14 jours"
+    },
+    "problem": {
+      "title": "Deux scénarios. Le même trou dans votre marge.",
+      "subtitle": "Que vous ayez centralisé ou pas, le coût est réel : erreurs, reprises, temps d'arrêt et personnel surchargé. ExpertSync s'attaque aux deux.",
+      "items": [
+        {
+          "title": "Cas 1 : Votre documentation existe. Personne ne s'en sert.",
+          "description": "Vous avez investi pour bâtir des procédures, manuels et fiches techniques. Mais en atelier, vos techniciens préfèrent appeler un senior ou faire de mémoire plutôt que de chercher 20 minutes dans un PDF. L'investissement documentaire dort, les mêmes erreurs reviennent, et la documentation se désactualise sans que personne ne le remarque."
+        },
+        {
+          "title": "Cas 2 : Tout le savoir est dans la tête de 2-3 personnes.",
+          "description": "Aucune centralisation. Quand l'un de vos experts est absent ou part à la retraite, c'est la production qui ralentit. Les nouveaux mettent des mois à devenir autonomes, et chaque transmission orale ouvre la porte à des erreurs coûteuses : reprises, non-conformités, pénalités de livraison."
+        }
+      ]
+    },
+    "solution": {
+      "title": "Une IA qui suit vos règles. Littéralement.",
+      "subtitle": "ExpertSync lit vos procédures, manuels et règles internes. Il répond aux questions strictement en se basant sur ce qui est documenté. Pas d'hallucinations. Pas de suppositions. Pas d'interprétation créative.",
+      "features": [
+        "Ancré exclusivement dans vos documents internes",
+        "Réponses basées sur des règles explicites, pas des probabilités",
+        "Chaque réponse renvoie à son document source",
+        "Conçu pour de vraies décisions opérationnelles, pas des tâches créatives"
+      ],
+      "question": "« Quel est le couple de serrage pour le boulon à bride M12 sur la Ligne 3 ? »",
+      "answerLabel": "Réponse ExpertSync",
+      "answer": "« Appliquer 85 Nm ± 5 Nm. Utiliser une clé dynamométrique calibrée. Vérifier avec mesure d'angle selon la Section 4.2.3. »",
+      "answerSource": "Source : Manuel de maintenance Rév.7, Section 4.2.3, p.47",
+      "notDocumentedLabel": "Si non documenté",
+      "notDocumented": "« Cette information n'est pas disponible dans le jeu de documents actuel. Veuillez consulter votre équipe d'ingénierie. »"
+    },
+    "howItWorks": {
+      "title": "Comment ExpertSync fonctionne",
+      "subtitle": "Volontairement limité pour livrer de la valeur rapidement : une équipe, un cas d'usage, un corpus documentaire. Opérationnel en 7 à 14 jours.",
+      "steps": [
+        {
+          "title": "Sélectionnez un cas d'usage",
+          "description": "Choisissez un domaine opérationnel spécifique : inspections, procédures de maintenance, listes de contrôle qualité, protocoles de production ou directives de transformation."
+        },
+        {
+          "title": "Nous intégrons vos documents",
+          "description": "Nous validons, structurons et indexons vos manuels et procédures existants. Aucune réécriture nécessaire, nous travaillons avec ce que vous avez déjà."
+        },
+        {
+          "title": "Votre équipe obtient des réponses",
+          "description": "Les équipes terrain posent des questions en langage courant et obtiennent des réponses conformes aux règles instantanément, avec traçabilité complète des sources."
+        }
+      ],
+      "note": "L'étape 1 est volontairement limitée pour que vous puissiez valider les résultats avant d'étendre. Implémentation typique : 7 à 14 jours."
+    },
+    "safety": {
+      "title": "Vos données. Votre contrôle. Sécurité maximale.",
+      "subtitle": "ExpertSync est conçu pour les environnements manufacturiers, de distribution et de transformation où la confidentialité des données et la traçabilité sont non négociables.",
+      "points": [
+        {
+          "title": "Aucun entraînement IA public",
+          "description": "Vos données ne sont jamais utilisées pour entraîner des modèles externes."
+        },
+        {
+          "title": "Infrastructure de données privée",
+          "description": "Les documents restent dans un environnement dédié et isolé."
+        },
+        {
+          "title": "Contrôle total des documents",
+          "description": "Vous décidez exactement quels documents sont indexés. Ajoutez ou retirez à tout moment."
+        },
+        {
+          "title": "Traçabilité transparente",
+          "description": "Chaque réponse renvoie à la section source, la page et la version du document."
+        },
+        {
+          "title": "Optimisation continue des connaissances",
+          "description": "Les administrateurs disposent d'un Centre de commande dédié pour voir les questions auxquelles l'IA n'a pas pu répondre. Mettez à jour les procédures ou ajoutez de nouveaux manuels instantanément."
+        },
+        {
+          "title": "Déploiement en environnement isolé",
+          "description": "Pour les environnements haute sécurité, ExpertSync peut être déployé sur votre cloud privé ou vos serveurs locaux."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Tarification simple et prévisible",
+      "subtitle": "Conçu pour commencer petit et étendre seulement une fois la valeur prouvée.",
+      "plan": "ExpertSync, Étape 1",
+      "price": "500 $",
+      "period": "/mois",
+      "implementation": "+ Frais fixe d'implémentation",
+      "timeline": "Implémentation en 7 à 14 jours",
+      "cta": "Demander un appel",
+      "included": [
+        "Un cas d'usage, une équipe",
+        "Intégration et validation des documents",
+        "Réponses IA conformes aux règles",
+        "Traçabilité des sources sur chaque réponse",
+        "Support dédié pendant le pilote"
+      ],
+      "noCommitment": "Aucun engagement à long terme. Annulez à tout moment."
+    },
+    "faq": {
+      "title": "Questions fréquemment posées",
+      "items": [
+        {
+          "question": "Est-ce un remplacement de nos procédures ?",
+          "answer": "Non. ExpertSync ne remplace pas vos procédures, il les rend accessibles. Vos manuels et procédures restent la source unique de vérité. ExpertSync aide simplement vos équipes à trouver et appliquer la bonne information plus rapidement."
+        },
+        {
+          "question": "Peut-on l'étendre à d'autres équipes par la suite ?",
+          "answer": "Oui. L'étape 1 est volontairement limitée à une équipe et un cas d'usage pour valider la précision et la valeur. Une fois prouvé, ExpertSync peut être étendu à d'autres équipes, ensembles documentaires et cas d'usage."
+        },
+        {
+          "question": "Y a-t-il un essai gratuit ?",
+          "answer": "Nous n'offrons pas d'essai gratuit ouvert. ExpertSync commence par un pilote ciblé pour garantir des résultats précis."
+        },
+        {
+          "question": "À qui est-ce destiné ?",
+          "answer": "ExpertSync est conçu pour les équipes opérationnelles et terrain dans les industries manufacturières, de distribution et de transformation."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Arrêtez de perdre de l'argent sur des erreurs évitables.",
+      "titleFaded": "10 minutes pour voir combien vous pouvez récupérer.",
+      "subtitle": "On regarde vos opérations ensemble. Si ExpertSync peut réduire vos pertes, vous le saurez en 10 minutes. Pas de pitch. Pas de pression.",
+      "cta": "Calculer mes pertes évitables"
+    }
+  },
+  "financier": {
+    "hero": {
+      "badge": "Étape 1 : Commencez par un cas d'usage",
+      "title": "Vos équipes perdent du temps à chercher la bonne réponse réglementaire ?",
+      "subtitle": "ExpertSync donne à vos équipes en services financiers un accès instantané aux réponses exactes, basées uniquement sur vos politiques internes et cadres réglementaires.",
+      "cta": "Demander un appel de 10 minutes",
+      "reassurance": "Mise en place typique : 7–14 jours"
+    },
+    "problem": {
+      "title": "Deux réalités. Le même risque réglementaire.",
+      "subtitle": "Que vos politiques soient centralisées ou non, vos équipes prennent des décisions tous les jours. Sans accès à la bonne réponse, le risque est le même.",
+      "items": [
+        {
+          "title": "Cas 1 : Vos politiques sont centralisées. Personne ne les lit.",
+          "description": "Vous avez investi pour bâtir une bibliothèque de politiques, directives et procédures. Mais sur le terrain, conseillers et analystes appellent la conformité ou agissent à la mémoire plutôt que d'ouvrir un document de 80 pages. Résultat : règles appliquées de mémoire, versions désuètes utilisées, et un risque réglementaire qui grossit en silence."
+        },
+        {
+          "title": "Cas 2 : Aucune centralisation. Tout passe par 2-3 experts.",
+          "description": "Les règles vivent dans la tête de quelques responsables conformité débordés. Chaque question fait la file d'attente, chaque absence ralentit l'organisation, et les nouveaux arrivants prennent des mois à devenir autonomes. Le moindre angle mort se transforme en non-conformité coûteuse à l'audit."
+        }
+      ]
+    },
+    "solution": {
+      "title": "Une IA qui suit vos règles. À la lettre.",
+      "subtitle": "ExpertSync lit vos politiques, cadres réglementaires et procédures internes. Il répond strictement en se basant sur ce qui est documenté. Aucune hallucination. Aucune interprétation créative.",
+      "features": [
+        "Ancré exclusivement dans vos documents et politiques internes",
+        "Réponses basées sur des règles explicites, pas des probabilités",
+        "Chaque réponse renvoie à la source : politique, section, page",
+        "Conçu pour la conformité et les décisions réglementaires"
+      ],
+      "questionLabel": "Question",
+      "question": "« Quelles sont les exigences KYC pour un client à risque élevé dans le cadre de la directive LCB-FT ? »",
+      "answerLabel": "Réponse ExpertSync",
+      "answer": "« Vérification d'identité renforcée requise. Obtenir une déclaration de source de fonds. Approbation du responsable conformité obligatoire avant ouverture de compte. Révision périodique tous les 6 mois. »",
+      "answerSource": "Source : Politique KYC v3.2, Section 5.4.1, p.23"
+    },
+    "howItWorks": {
+      "title": "Comment ExpertSync fonctionne",
+      "subtitle": "Volontairement ciblé pour livrer de la valeur rapidement : une équipe, un cas d'usage, un corpus documentaire. Opérationnel en 7 à 14 jours.",
+      "steps": [
+        {
+          "title": "Sélectionnez un cas d'usage",
+          "description": "Choisissez un domaine spécifique : conformité KYC/AML, procédures d'audit, politiques de crédit, directives de gestion des risques ou réglementation sectorielle."
+        },
+        {
+          "title": "Nous intégrons vos documents",
+          "description": "Nous validons, structurons et indexons vos politiques et procédures existantes. Aucune réécriture nécessaire."
+        },
+        {
+          "title": "Votre équipe obtient des réponses",
+          "description": "Vos équipes posent leurs questions en langage courant et obtiennent des réponses conformes instantanément, avec traçabilité complète."
+        }
+      ]
+    },
+    "safety": {
+      "title": "Vos données. Votre contrôle. Conformité maximale.",
+      "subtitle": "ExpertSync est conçu pour les environnements financiers où la confidentialité des données et la conformité réglementaire sont non négociables.",
+      "points": [
+        {
+          "title": "Aucun entraînement IA public",
+          "description": "Vos données ne sont jamais utilisées pour entraîner des modèles externes."
+        },
+        {
+          "title": "Infrastructure de données privée",
+          "description": "Les documents restent dans un environnement dédié et isolé, conforme aux exigences du secteur."
+        },
+        {
+          "title": "Contrôle total des documents",
+          "description": "Vous décidez exactement quels documents sont indexés. Ajoutez ou retirez à tout moment."
+        },
+        {
+          "title": "Traçabilité complète",
+          "description": "Chaque réponse renvoie à la politique source, la section et la version du document — essentiel pour les audits."
+        },
+        {
+          "title": "Piste d'audit intégrée",
+          "description": "Chaque question posée et réponse fournie est journalisée. Idéal pour démontrer la diligence raisonnable lors des audits."
+        },
+        {
+          "title": "Déploiement en environnement isolé",
+          "description": "Pour les institutions à haute sécurité, ExpertSync peut être déployé sur votre cloud privé. Vos données ne quittent jamais votre périmètre."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Tarification simple et prévisible",
+      "subtitle": "Conçu pour commencer petit et étendre seulement une fois la valeur prouvée.",
+      "plan": "ExpertSync, Étape 1",
+      "price": "500 $",
+      "period": "/mois",
+      "implementation": "+ Frais fixe d'implémentation",
+      "cta": "Demander un appel",
+      "included": [
+        "Un cas d'usage, une équipe",
+        "Intégration et validation des documents réglementaires",
+        "Réponses IA conformes aux politiques",
+        "Traçabilité des sources sur chaque réponse",
+        "Support dédié pendant le pilote"
+      ],
+      "noCommitment": "Aucun engagement à long terme. Annulez à tout moment."
+    },
+    "faq": {
+      "title": "Questions fréquemment posées",
+      "items": [
+        {
+          "question": "Est-ce que ça remplace notre équipe conformité ?",
+          "answer": "Non. ExpertSync ne remplace pas votre équipe conformité, il la rend plus efficace. Vos politiques restent la source de vérité. ExpertSync aide vos équipes à trouver la bonne réponse plus rapidement."
+        },
+        {
+          "question": "Peut-on l'étendre à d'autres départements ?",
+          "answer": "Oui. L'étape 1 est ciblée sur une équipe et un cas d'usage pour valider la valeur. Ensuite, ExpertSync peut couvrir d'autres domaines : crédit, risque, audit, opérations."
+        },
+        {
+          "question": "Est-ce conforme aux exigences réglementaires ?",
+          "answer": "ExpertSync est conçu avec la conformité en tête : données isolées, traçabilité complète, piste d'audit intégrée. Il peut être déployé dans votre infrastructure pour respecter les exigences les plus strictes."
+        },
+        {
+          "question": "À qui est-ce destiné ?",
+          "answer": "ExpertSync est conçu pour les équipes de conformité, d'audit, de gestion des risques et les conseillers dans les institutions financières, les firmes de courtage et les compagnies d'assurance."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Commencez par un cas d'usage. Prouvez la valeur.",
+      "titleFaded": "Étendez seulement si ça fait sens.",
+      "subtitle": "Un appel de 10 minutes pour voir si ExpertSync convient à votre institution. Pas de présentation commerciale. Pas de pression.",
+      "cta": "Demander un appel de 10 minutes"
+    }
+  }
+}
