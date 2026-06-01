@@ -1,5 +1,6 @@
 import Header from "@/components/landing/Header";
 import Footer from "@/components/landing/Footer";
+import ServiceCentralisation from "@/components/landing/ServiceCentralisation";
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Check, Shield } from "lucide-react";
 import { useTranslation } from "react-i18next";
@@ -81,6 +82,9 @@ const Industriel = () => {
             </div>
           </div>
         </section>
+
+        {/* Centralisation service */}
+        <ServiceCentralisation />
 
         {/* How it works */}
         <section className="section-padding section-alt">

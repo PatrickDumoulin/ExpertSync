@@ -103,6 +103,20 @@
       }
     ]
   },
+  "centralisationService": {
+    "badge": "Additional service",
+    "title": "Nothing documented yet?",
+    "subtitle": "No problem. We also offer a turnkey service to create and centralize your procedures — before making them accessible with ExpertSync.",
+    "description": "Our team works with you in the field to capture, structure, and validate your operational expertise. Interviews with your experts, procedure writing, validation with your teams. You leave with clean documentation, ready to be connected to ExpertSync.",
+    "includedTitle": "What's included:",
+    "included": [
+      "Field interviews with your key experts",
+      "Procedure writing and structuring",
+      "Validation and review with your teams",
+      "Direct integration into ExpertSync"
+    ],
+    "cta": "Talk to us. 10 min."
+  },
   "clients": {
     "title": "Our achievements",
     "subtitle": "They trust us.",

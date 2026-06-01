@@ -103,6 +103,20 @@
       }
     ]
   },
+  "centralisationService": {
+    "badge": "Service complémentaire",
+    "title": "Vous n'avez rien de documenté ?",
+    "subtitle": "Pas de problème. On offre aussi un service clé en main pour créer et centraliser vos procédures — avant de les rendre accessibles avec ExpertSync.",
+    "description": "Notre équipe vient sur le terrain avec vous pour capturer, structurer et valider votre expertise opérationnelle. Entretiens avec vos experts, rédaction des procédures, validation avec vos équipes. Vous repartez avec une base documentaire propre, prête à être branchée sur ExpertSync.",
+    "includedTitle": "Ce qui est inclus :",
+    "included": [
+      "Entretiens terrain avec vos experts clés",
+      "Rédaction et structuration des procédures",
+      "Validation et révision avec vos équipes",
+      "Intégration directe dans ExpertSync"
+    ],
+    "cta": "En parler. 10 min."
+  },
   "clients": {
     "title": "Nos réalisations",
     "subtitle": "Ils nous font confiance.",
