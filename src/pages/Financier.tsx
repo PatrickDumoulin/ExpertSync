@@ -19,8 +19,10 @@ const Financier = () => {
               <span className="h-1.5 w-1.5 rounded-full bg-accent" />
               {t("financier.hero.badge")}
             </div>
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-[1.1] mb-6 text-foreground">
-              {t("financier.hero.title")}
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-[1.1] mb-6">
+              <span className="text-muted-foreground">{t("financier.hero.title")}</span>
+              <br />
+              <span className="text-foreground">{t("financier.hero.titleFaded")}</span>
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10 leading-relaxed">
               {t("financier.hero.subtitle")}

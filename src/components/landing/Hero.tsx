@@ -8,9 +8,10 @@ const Hero = () => {
   return (
     <section id="hero" className="section-padding pt-32 md:pt-40 pb-16 md:pb-24" aria-labelledby="hero-title">
       <div className="container max-w-4xl mx-auto text-center">
-        <h1 id="hero-title" className="text-4xl md:text-5xl lg:text-6xl font-bold leading-[1.1] mb-6 text-foreground">
-          {t("hero.title")}{" "}
-          <span className="text-muted-foreground">{t("hero.titleFaded")}</span>
+        <h1 id="hero-title" className="text-4xl md:text-5xl lg:text-6xl font-bold leading-[1.1] mb-6">
+          <span className="text-muted-foreground">{t("hero.title")}</span>
+          <br />
+          <span className="text-foreground">{t("hero.titleFaded")}</span>
         </h1>
 
         <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10 leading-relaxed">

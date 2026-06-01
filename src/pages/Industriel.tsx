@@ -15,8 +15,10 @@ const Industriel = () => {
         {/* Hero */}
         <section className="section-padding pt-32 md:pt-40 pb-16 md:pb-24">
           <div className="container max-w-4xl mx-auto text-center">
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-[1.1] mb-6 text-foreground">
-              {t("industriel.hero.title")}
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-[1.1] mb-6">
+              <span className="text-muted-foreground">{t("industriel.hero.title")}</span>
+              <br />
+              <span className="text-foreground">{t("industriel.hero.titleFaded")}</span>
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10 leading-relaxed">
               {t("industriel.hero.subtitle")}
