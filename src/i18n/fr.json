@@ -1,51 +1,51 @@
 {
   "sectorSelect": {
-    "title": "Quelle est votre réalité ?",
-    "subtitle": "ExpertSync s'adapte à votre secteur. Choisissez votre domaine pour découvrir comment nous pouvons vous aider.",
+    "title": "Dans quel secteur êtes-vous ?",
+    "subtitle": "ExpertSync s'adapte à votre réalité. Choisissez votre domaine pour voir comment on règle le problème chez vous.",
     "discover": "Découvrir",
     "industrial": {
       "title": "Manufacturier, Distribution & Transformation",
-      "description": "Procédures de maintenance, contrôle qualité, protocoles de production — rendez l'expertise opérationnelle accessible à vos équipes terrain."
+      "description": "Procédures de maintenance, contrôle qualité, protocoles de production — vos procédures existent déjà. On les rend consultables en quelques secondes."
     },
     "financial": {
       "title": "Services Financiers",
-      "description": "Conformité réglementaire, politiques internes, procédures d'audit — donnez à vos équipes un accès instantané aux bonnes réponses."
+      "description": "Politiques internes, conformité réglementaire, procédures d'audit — vos documents existent déjà. On les rend accessibles instantanément."
     }
   },
   "header": {
     "cta": "Demander un appel"
   },
   "hero": {
-    "badge": "Fabricants d'équipements industriels",
-    "title": "Chaque question sans réponse vous coûte de l'argent.",
-    "titleFaded": "",
-    "subtitle": "Temps d'arrêt, erreurs d'assemblage, reprises, retards de livraison. Quand vos techniciens n'ont pas la bonne information au bon moment, c'est votre marge qui en paie le prix. ExpertSync donne des réponses instantanées basées sur vos manuels techniques. Zéro perte de temps.",
-    "cta": "Voir combien vous perdez. Appelez-nous 10 min.",
-    "secondary": "Voir comment ça fonctionne",
+    "badge": "Le problème que tout le monde ignore",
+    "title": "Vos procédures existent.",
+    "titleFaded": "Personne ne les consulte.",
+    "subtitle": "Vos employés cherchent 10 minutes dans un PDF, ne trouvent pas, et finissent par appeler un senior ou improviser. ExpertSync transforme vos procédures en chatbot : la bonne réponse en quelques secondes. Zéro recherche. Rien à apprendre.",
+    "cta": "Voir comment ça fonctionne. 10 min.",
+    "secondary": "Voir une démo",
     "reassurance": "Mise en place typique : 7–14 jours"
   },
   "problem": {
-    "title": "Deux situations. Le même coût caché.",
-    "subtitle": "Quel que soit votre cas, le résultat est identique : du temps perdu, des erreurs évitables et de la marge qui s'évapore. ExpertSync règle les deux.",
+    "title": "Ce n'est pas un problème de documentation. C'est un problème d'accès.",
+    "subtitle": "Vos procédures sont là. Mais personne ne les consulte au bon moment — et ça coûte cher.",
     "items": [
       {
-        "title": "Cas 1 : Vos données sont centralisées. Personne ne les consulte.",
-        "description": "Vous avez investi des mois (et des milliers de dollars) à monter une base documentaire propre. Mais sur le terrain, vos employés cherchent 20 minutes, ne trouvent pas, et finissent par appeler un senior ou improviser. Résultat : votre investissement dort, les erreurs persistent, et la documentation devient obsolète sans que personne ne s'en aperçoive."
+        "title": "Personne ne cherche dans vos documents.",
+        "description": "Trouver la bonne procédure prend trop de temps. Vos employés préfèrent appeler un senior, faire de mémoire, ou improviser. Résultat : votre investissement documentaire dort pendant que les mêmes erreurs se répètent."
       },
       {
-        "title": "Cas 2 : Rien n'a jamais été centralisé.",
-        "description": "L'expertise vit dans la tête de 2 ou 3 personnes clés. Quand l'une d'elles est absente, malade ou part à la retraite, la production ralentit ou s'arrête. Les nouveaux arrivants mettent des mois à monter en compétence, et chaque erreur de transmission coûte cher en reprises, retards et clients déçus."
+        "title": "Vos experts répondent aux mêmes questions toute la journée.",
+        "description": "Chaque interruption coûte 20 minutes de concentration. Multipliez par 5 questions par jour, par 10 employés, par 250 jours. C'est des milliers d'heures perdues — parce que l'information existe mais n'est pas accessible."
       }
     ]
   },
   "solution": {
-    "title": "Une IA qui suit vos specs. À la lettre.",
-    "subtitle": "ExpertSync lit vos manuels machines, fiches techniques, procédures d'assemblage et spécifications de composants. Il répond strictement en se basant sur ce qui est documenté. Pas d'hallucinations. Pas de suppositions.",
+    "title": "Un chatbot branché sur vos procédures.",
+    "subtitle": "Vos employés posent leur question en langage courant — comme envoyer un texto. ExpertSync répond en quelques secondes, directement depuis vos documents. Zéro recherche. Zéro outil à apprendre. Zéro formation.",
     "features": [
-      "Ancré exclusivement dans vos documents techniques internes",
-      "Réponses basées sur vos spécifications exactes, pas des approximations",
-      "Chaque réponse renvoie au manuel source, section et page",
-      "Conçu pour les décisions terrain en atelier de fabrication"
+      "Posez une question en français courant, obtenez la réponse en secondes",
+      "Ancré exclusivement dans vos documents et procédures internes",
+      "Chaque réponse renvoie au document source, section et page",
+      "Zéro recherche, zéro formation, zéro outil à maîtriser"
     ],
     "question": "« Quel est le couple de serrage pour le boulon à bride M12 sur la presse hydraulique PH-400 ? »",
     "answerLabel": "Réponse ExpertSync",
@@ -56,19 +56,19 @@
   },
   "howItWorks": {
     "title": "Comment ExpertSync fonctionne",
-    "subtitle": "Volontairement ciblé pour livrer de la valeur rapidement : une ligne de production, un type d'équipement, un corpus documentaire. Opérationnel en 7 à 14 jours.",
+    "subtitle": "Vos procédures restent vos procédures. On les rend simplement consultables en quelques secondes par n'importe qui, sans recherche, sans formation.",
     "steps": [
       {
-        "title": "Sélectionnez un cas d'usage",
-        "description": "Choisissez un domaine spécifique : assemblage d'équipements, maintenance préventive, calibration, contrôle qualité ou mise en service."
+        "title": "On intègre vos documents existants",
+        "description": "Vos manuels, procédures et fiches techniques tels qu'ils sont. Pas besoin de tout réécrire — on travaille avec ce que vous avez déjà."
       },
       {
-        "title": "Nous intégrons vos documents",
-        "description": "Nous validons, structurons et indexons vos manuels machines, fiches techniques et procédures existantes. Aucune réécriture nécessaire."
+        "title": "On construit votre chatbot interne",
+        "description": "En 7 à 14 jours, votre chatbot est opérationnel. Il connaît vos procédures par cœur et sait exactement où chercher."
       },
       {
-        "title": "Votre équipe obtient des réponses",
-        "description": "Vos techniciens posent leurs questions en langage courant et obtiennent des réponses exactes instantanément, avec traçabilité complète des sources."
+        "title": "Vos employés posent une question",
+        "description": "Comme envoyer un texto à un collègue. En quelques secondes, la bonne réponse avec la source exacte. Rien à chercher, rien à apprendre, rien à changer dans les habitudes."
       }
     ],
     "note": "L'étape 1 est volontairement limitée pour que vous puissiez valider les résultats avant d'étendre. Implémentation typique : 7 à 14 jours."
@@ -131,11 +131,11 @@
     "items": [
       {
         "question": "Est-ce un remplacement de nos manuels techniques ?",
-        "answer": "Non. ExpertSync ne remplace pas vos manuels, il les rend accessibles. Vos fiches techniques et procédures restent la source de vérité. ExpertSync aide vos techniciens à trouver la bonne spécification plus rapidement."
+        "answer": "Non. ExpertSync ne remplace pas vos manuels, il les rend accessibles. Vos fiches techniques et procédures restent la source de vérité. ExpertSync aide vos techniciens à trouver la bonne spécification en quelques secondes, sans chercher."
       },
       {
-        "question": "Peut-on l'étendre à d'autres lignes de production ?",
-        "answer": "Oui. L'étape 1 est limitée à un cas d'usage pour valider la précision. Une fois prouvé, ExpertSync peut couvrir tous vos équipements, lignes de production et sites."
+        "question": "Faut-il former les employés pour l'utiliser ?",
+        "answer": "Non. C'est un chatbot — vos employés posent une question en langage courant et obtiennent une réponse. Aucune formation, aucun nouvel outil à apprendre. Si vous savez envoyer un texto, vous savez utiliser ExpertSync."
       },
       {
         "question": "Y a-t-il un essai gratuit ?",
@@ -148,10 +148,10 @@
     ]
   },
   "finalCta": {
-    "title": "Arrêtez de perdre de l'argent sur des erreurs évitables.",
-    "titleFaded": "10 minutes pour voir combien vous pouvez récupérer.",
-    "subtitle": "On regarde vos opérations ensemble. Si ExpertSync peut réduire vos pertes, vous le saurez en 10 minutes. Pas de pitch. Pas de pression.",
-    "cta": "Calculer mes pertes évitables"
+    "title": "Vos procédures existent déjà.",
+    "titleFaded": "Il suffit de les rendre accessibles.",
+    "subtitle": "Un chatbot branché sur vos documents en 7 à 14 jours. Vos équipes obtiennent les bonnes réponses instantanément — sans chercher, sans se former, sans dépendre d'un expert.",
+    "cta": "Voir comment ça fonctionne. 10 min."
   },
   "footer": {
     "rights": "© {{year}} ExpertSync. Tous droits réservés."
@@ -159,34 +159,34 @@
   "industriel": {
     "hero": {
       "badge": "Manufacturier · Distribution · Transformation",
-      "title": "Chaque question répétitive vous coûte du temps, de l'argent et de la marge.",
-      "titleFaded": "",
-      "subtitle": "Erreurs de production, temps d'arrêt, personnel senior surchargé. Quand l'information est dispersée, c'est votre rentabilité qui absorbe le choc. ExpertSync élimine ces pertes en rendant le savoir opérationnel accessible en secondes.",
-      "cta": "Voir combien vous perdez. Appelez-nous 10 min.",
+      "title": "Vos procédures existent.",
+      "titleFaded": "Vos techniciens ne les consultent pas.",
+      "subtitle": "Ils cherchent 10 minutes dans un PDF, ne trouvent pas, et appellent un senior ou improvise. ExpertSync transforme vos procédures en chatbot : la bonne réponse en quelques secondes. Zéro recherche. Rien à apprendre.",
+      "cta": "Voir comment ça fonctionne. 10 min.",
       "reassurance": "Mise en place typique : 7–14 jours"
     },
     "problem": {
-      "title": "Deux scénarios. Le même trou dans votre marge.",
-      "subtitle": "Que vous ayez centralisé ou pas, le coût est réel : erreurs, reprises, temps d'arrêt et personnel surchargé. ExpertSync s'attaque aux deux.",
+      "title": "Le vrai problème n'est pas la documentation. C'est l'accès.",
+      "subtitle": "Vos procédures sont là. Mais sur le terrain, personne ne les consulte — et ça coûte cher à chaque quart de travail.",
       "items": [
         {
-          "title": "Cas 1 : Votre documentation existe. Personne ne s'en sert.",
-          "description": "Vous avez investi pour bâtir des procédures, manuels et fiches techniques. Mais en atelier, vos techniciens préfèrent appeler un senior ou faire de mémoire plutôt que de chercher 20 minutes dans un PDF. L'investissement documentaire dort, les mêmes erreurs reviennent, et la documentation se désactualise sans que personne ne le remarque."
+          "title": "Chercher prend trop de temps. Alors personne ne cherche.",
+          "description": "Sur le plancher, ouvrir le bon manuel, trouver la bonne section, valider la bonne version — ça prend 10 à 20 minutes. Vos techniciens n'ont pas ce temps. Alors ils appellent un senior, font de mémoire, ou improvisent. Votre documentation est là, mais elle est invisible."
         },
         {
-          "title": "Cas 2 : Tout le savoir est dans la tête de 2-3 personnes.",
-          "description": "Aucune centralisation. Quand l'un de vos experts est absent ou part à la retraite, c'est la production qui ralentit. Les nouveaux mettent des mois à devenir autonomes, et chaque transmission orale ouvre la porte à des erreurs coûteuses : reprises, non-conformités, pénalités de livraison."
+          "title": "Résultat : les mêmes erreurs, les mêmes appels, encore et encore.",
+          "description": "Vos experts senior répondent aux mêmes questions toute la journée. Les erreurs évitables se répètent quart après quart. Et tout le monde s'y est habitué — parce que personne ne sait qu'il y a une meilleure façon."
         }
       ]
     },
     "solution": {
-      "title": "Une IA qui suit vos règles. Littéralement.",
-      "subtitle": "ExpertSync lit vos procédures, manuels et règles internes. Il répond aux questions strictement en se basant sur ce qui est documenté. Pas d'hallucinations. Pas de suppositions. Pas d'interprétation créative.",
+      "title": "Un chatbot branché sur vos procédures.",
+      "subtitle": "Vos techniciens tapent leur question en langage courant. ExpertSync répond en quelques secondes, directement tiré de vos manuels et procédures. Aucune recherche. Aucun outil à apprendre. Aucune formation requise.",
       "features": [
-        "Ancré exclusivement dans vos documents internes",
-        "Réponses basées sur des règles explicites, pas des probabilités",
-        "Chaque réponse renvoie à son document source",
-        "Conçu pour de vraies décisions opérationnelles, pas des tâches créatives"
+        "Posez une question comme à un collègue, obtenez la réponse en secondes",
+        "Ancré exclusivement dans vos procédures et documents internes",
+        "Chaque réponse renvoie au document source, section et page",
+        "Zéro recherche, zéro formation, zéro outil à maîtriser"
       ],
       "question": "« Quel est le couple de serrage pour le boulon à bride M12 sur la Ligne 3 ? »",
       "answerLabel": "Réponse ExpertSync",
@@ -197,19 +197,19 @@
     },
     "howItWorks": {
       "title": "Comment ExpertSync fonctionne",
-      "subtitle": "Volontairement limité pour livrer de la valeur rapidement : une équipe, un cas d'usage, un corpus documentaire. Opérationnel en 7 à 14 jours.",
+      "subtitle": "Vos procédures restent vos procédures. On les rend consultables en quelques secondes — sans changer les habitudes de votre équipe.",
       "steps": [
         {
-          "title": "Sélectionnez un cas d'usage",
-          "description": "Choisissez un domaine opérationnel spécifique : inspections, procédures de maintenance, listes de contrôle qualité, protocoles de production ou directives de transformation."
+          "title": "On intègre vos documents existants",
+          "description": "Manuels de maintenance, procédures qualité, protocoles de production — tels qu'ils sont. Aucune réécriture, on travaille avec ce que vous avez déjà."
         },
         {
-          "title": "Nous intégrons vos documents",
-          "description": "Nous validons, structurons et indexons vos manuels et procédures existants. Aucune réécriture nécessaire, nous travaillons avec ce que vous avez déjà."
+          "title": "On construit votre chatbot interne",
+          "description": "En 7 à 14 jours, votre chatbot est opérationnel. Il connaît vos procédures par cœur et sait exactement où chercher dans vos documents."
         },
         {
-          "title": "Votre équipe obtient des réponses",
-          "description": "Les équipes terrain posent des questions en langage courant et obtiennent des réponses conformes aux règles instantanément, avec traçabilité complète des sources."
+          "title": "Vos techniciens posent une question",
+          "description": "Comme envoyer un texto. En quelques secondes, la bonne réponse avec la source exacte. Rien à chercher, rien à apprendre, rien à changer dans les habitudes du plancher."
         }
       ],
       "note": "L'étape 1 est volontairement limitée pour que vous puissiez valider les résultats avant d'étendre. Implémentation typique : 7 à 14 jours."
@@ -256,7 +256,7 @@
       "included": [
         "Un cas d'usage, une équipe",
         "Intégration et validation des documents",
-        "Réponses IA conformes aux règles",
+        "Chatbot branché sur vos procédures",
         "Traçabilité des sources sur chaque réponse",
         "Support dédié pendant le pilote"
       ],
@@ -267,11 +267,11 @@
       "items": [
         {
           "question": "Est-ce un remplacement de nos procédures ?",
-          "answer": "Non. ExpertSync ne remplace pas vos procédures, il les rend accessibles. Vos manuels et procédures restent la source unique de vérité. ExpertSync aide simplement vos équipes à trouver et appliquer la bonne information plus rapidement."
+          "answer": "Non. ExpertSync ne remplace pas vos procédures, il les rend accessibles. Vos manuels et procédures restent la source unique de vérité. ExpertSync aide simplement vos équipes à obtenir la bonne information en quelques secondes, sans chercher."
         },
         {
-          "question": "Peut-on l'étendre à d'autres équipes par la suite ?",
-          "answer": "Oui. L'étape 1 est volontairement limitée à une équipe et un cas d'usage pour valider la précision et la valeur. Une fois prouvé, ExpertSync peut être étendu à d'autres équipes, ensembles documentaires et cas d'usage."
+          "question": "Faut-il former les techniciens pour l'utiliser ?",
+          "answer": "Non. C'est un chatbot — vos techniciens posent leur question en langage courant, comme un texto. Aucune formation, aucun nouvel outil à apprendre. L'adoption se fait naturellement."
         },
         {
           "question": "Y a-t-il un essai gratuit ?",
@@ -284,42 +284,43 @@
       ]
     },
     "finalCta": {
-      "title": "Arrêtez de perdre de l'argent sur des erreurs évitables.",
-      "titleFaded": "10 minutes pour voir combien vous pouvez récupérer.",
-      "subtitle": "On regarde vos opérations ensemble. Si ExpertSync peut réduire vos pertes, vous le saurez en 10 minutes. Pas de pitch. Pas de pression.",
-      "cta": "Calculer mes pertes évitables"
+      "title": "Vos procédures existent déjà.",
+      "titleFaded": "Il suffit de les rendre accessibles.",
+      "subtitle": "Un chatbot branché sur vos documents en 7 à 14 jours. Vos techniciens obtiennent les bonnes réponses instantanément — sans chercher, sans appeler un senior, sans se former.",
+      "cta": "Voir comment ça fonctionne. 10 min."
     }
   },
   "financier": {
     "hero": {
-      "badge": "Étape 1 : Commencez par un cas d'usage",
-      "title": "Vos équipes perdent du temps à chercher la bonne réponse réglementaire ?",
-      "subtitle": "ExpertSync donne à vos équipes en services financiers un accès instantané aux réponses exactes, basées uniquement sur vos politiques internes et cadres réglementaires.",
+      "badge": "Services Financiers",
+      "title": "Vos politiques existent.",
+      "titleFaded": "Personne ne les consulte.",
+      "subtitle": "Vos conseillers et analystes appellent la conformité ou agissent de mémoire plutôt que d'ouvrir un document de 80 pages. ExpertSync transforme vos politiques en chatbot : la bonne réponse réglementaire en quelques secondes. Zéro recherche. Rien à apprendre.",
       "cta": "Demander un appel de 10 minutes",
       "reassurance": "Mise en place typique : 7–14 jours"
     },
     "problem": {
-      "title": "Deux réalités. Le même risque réglementaire.",
-      "subtitle": "Que vos politiques soient centralisées ou non, vos équipes prennent des décisions tous les jours. Sans accès à la bonne réponse, le risque est le même.",
+      "title": "Le vrai problème n'est pas la documentation. C'est l'accès.",
+      "subtitle": "Vos politiques sont là. Mais personne ne les lit au bon moment — et le risque réglementaire grandit en silence.",
       "items": [
         {
-          "title": "Cas 1 : Vos politiques sont centralisées. Personne ne les lit.",
-          "description": "Vous avez investi pour bâtir une bibliothèque de politiques, directives et procédures. Mais sur le terrain, conseillers et analystes appellent la conformité ou agissent à la mémoire plutôt que d'ouvrir un document de 80 pages. Résultat : règles appliquées de mémoire, versions désuètes utilisées, et un risque réglementaire qui grossit en silence."
+          "title": "Personne ne lit un document de 80 pages pour trouver une réponse.",
+          "description": "Ouvrir la bonne politique, trouver la bonne section, valider la bonne version — ça prend trop de temps. Vos équipes appellent la conformité ou agissent de mémoire. Résultat : règles appliquées approximativement, versions désuètes utilisées, risque réglementaire qui grossit en silence."
         },
         {
-          "title": "Cas 2 : Aucune centralisation. Tout passe par 2-3 experts.",
-          "description": "Les règles vivent dans la tête de quelques responsables conformité débordés. Chaque question fait la file d'attente, chaque absence ralentit l'organisation, et les nouveaux arrivants prennent des mois à devenir autonomes. Le moindre angle mort se transforme en non-conformité coûteuse à l'audit."
+          "title": "Vos experts conformité sont surchargés de questions répétitives.",
+          "description": "Les mêmes questions, les mêmes appels, toute la journée. Vos responsables conformité n'ont plus le temps de faire du vrai travail à valeur ajoutée. Et à chaque question sans réponse immédiate, c'est une décision prise sans la bonne information."
         }
       ]
     },
     "solution": {
-      "title": "Une IA qui suit vos règles. À la lettre.",
-      "subtitle": "ExpertSync lit vos politiques, cadres réglementaires et procédures internes. Il répond strictement en se basant sur ce qui est documenté. Aucune hallucination. Aucune interprétation créative.",
+      "title": "Un chatbot branché sur vos politiques et cadres réglementaires.",
+      "subtitle": "Vos équipes posent leur question en langage courant. ExpertSync répond en quelques secondes, directement tiré de vos politiques internes. Aucune recherche. Aucun outil à apprendre. Aucune formation requise.",
       "features": [
-        "Ancré exclusivement dans vos documents et politiques internes",
-        "Réponses basées sur des règles explicites, pas des probabilités",
-        "Chaque réponse renvoie à la source : politique, section, page",
-        "Conçu pour la conformité et les décisions réglementaires"
+        "Posez une question en langage courant, obtenez la réponse en secondes",
+        "Ancré exclusivement dans vos politiques et cadres réglementaires internes",
+        "Chaque réponse renvoie à la politique source, section et page",
+        "Zéro recherche, zéro formation, zéro outil à maîtriser"
       ],
       "questionLabel": "Question",
       "question": "« Quelles sont les exigences KYC pour un client à risque élevé dans le cadre de la directive LCB-FT ? »",
@@ -329,19 +330,19 @@
     },
     "howItWorks": {
       "title": "Comment ExpertSync fonctionne",
-      "subtitle": "Volontairement ciblé pour livrer de la valeur rapidement : une équipe, un cas d'usage, un corpus documentaire. Opérationnel en 7 à 14 jours.",
+      "subtitle": "Vos politiques restent vos politiques. On les rend consultables en quelques secondes — sans changer les habitudes de vos équipes.",
       "steps": [
         {
-          "title": "Sélectionnez un cas d'usage",
-          "description": "Choisissez un domaine spécifique : conformité KYC/AML, procédures d'audit, politiques de crédit, directives de gestion des risques ou réglementation sectorielle."
+          "title": "On intègre vos documents existants",
+          "description": "Politiques internes, cadres réglementaires, procédures d'audit — tels qu'ils sont. Aucune réécriture nécessaire."
         },
         {
-          "title": "Nous intégrons vos documents",
-          "description": "Nous validons, structurons et indexons vos politiques et procédures existantes. Aucune réécriture nécessaire."
+          "title": "On construit votre chatbot interne",
+          "description": "En 7 à 14 jours, votre chatbot est opérationnel. Il connaît vos politiques et règlements par cœur."
         },
         {
-          "title": "Votre équipe obtient des réponses",
-          "description": "Vos équipes posent leurs questions en langage courant et obtiennent des réponses conformes instantanément, avec traçabilité complète."
+          "title": "Vos équipes posent une question",
+          "description": "Comme envoyer un texto. En quelques secondes, la bonne réponse avec la source exacte. Rien à chercher, rien à apprendre."
         }
       ]
     },
@@ -386,7 +387,7 @@
       "included": [
         "Un cas d'usage, une équipe",
         "Intégration et validation des documents réglementaires",
-        "Réponses IA conformes aux politiques",
+        "Chatbot branché sur vos politiques",
         "Traçabilité des sources sur chaque réponse",
         "Support dédié pendant le pilote"
       ],
@@ -397,11 +398,11 @@
       "items": [
         {
           "question": "Est-ce que ça remplace notre équipe conformité ?",
-          "answer": "Non. ExpertSync ne remplace pas votre équipe conformité, il la rend plus efficace. Vos politiques restent la source de vérité. ExpertSync aide vos équipes à trouver la bonne réponse plus rapidement."
+          "answer": "Non. ExpertSync ne remplace pas votre équipe conformité, il la libère des questions répétitives. Vos politiques restent la source de vérité. Vos experts peuvent se concentrer sur le travail à valeur ajoutée."
         },
         {
-          "question": "Peut-on l'étendre à d'autres départements ?",
-          "answer": "Oui. L'étape 1 est ciblée sur une équipe et un cas d'usage pour valider la valeur. Ensuite, ExpertSync peut couvrir d'autres domaines : crédit, risque, audit, opérations."
+          "question": "Faut-il former les équipes pour l'utiliser ?",
+          "answer": "Non. C'est un chatbot — vos équipes posent leur question en langage courant, comme un texto. Aucune formation, aucun nouvel outil à apprendre."
         },
         {
           "question": "Est-ce conforme aux exigences réglementaires ?",
@@ -414,9 +415,9 @@
       ]
     },
     "finalCta": {
-      "title": "Commencez par un cas d'usage. Prouvez la valeur.",
-      "titleFaded": "Étendez seulement si ça fait sens.",
-      "subtitle": "Un appel de 10 minutes pour voir si ExpertSync convient à votre institution. Pas de présentation commerciale. Pas de pression.",
+      "title": "Vos politiques existent déjà.",
+      "titleFaded": "Il suffit de les rendre accessibles.",
+      "subtitle": "Un chatbot branché sur vos documents en 7 à 14 jours. Vos équipes obtiennent les bonnes réponses réglementaires instantanément — sans chercher, sans appeler la conformité, sans se former.",
       "cta": "Demander un appel de 10 minutes"
     }
   }

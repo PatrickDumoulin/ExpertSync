@@ -1,51 +1,51 @@
 {
   "sectorSelect": {
-    "title": "What's your reality?",
-    "subtitle": "ExpertSync adapts to your industry. Choose your sector to discover how we can help.",
+    "title": "What's your sector?",
+    "subtitle": "ExpertSync adapts to your reality. Choose your industry to see how we solve the problem for you.",
     "discover": "Discover",
     "industrial": {
       "title": "Manufacturing, Distribution & Processing",
-      "description": "Maintenance procedures, quality control, production protocols — make operational expertise accessible to your field teams."
+      "description": "Maintenance procedures, quality control, production protocols — your procedures already exist. We make them accessible in seconds."
     },
     "financial": {
       "title": "Financial Services",
-      "description": "Regulatory compliance, internal policies, audit procedures — give your teams instant access to the right answers."
+      "description": "Internal policies, regulatory compliance, audit procedures — your documents already exist. We make them instantly accessible."
     }
   },
   "header": {
     "cta": "Request a call"
   },
   "hero": {
-    "badge": "Industrial Equipment Manufacturers",
-    "title": "Every unanswered question is costing you money.",
-    "titleFaded": "",
-    "subtitle": "Downtime, assembly errors, rework, delivery delays. When your technicians can't find the right spec at the right time, your margins pay the price. ExpertSync delivers instant answers from your technical manuals. Zero wasted time.",
-    "cta": "See how much you're losing. 10-min call.",
-    "secondary": "See how it works",
+    "badge": "The problem everyone ignores",
+    "title": "Your procedures exist.",
+    "titleFaded": "Nobody consults them.",
+    "subtitle": "Your employees search for 10 minutes in a PDF, can't find what they need, and end up calling a senior or improvising. ExpertSync turns your procedures into a chatbot: the right answer in seconds. No searching. Nothing to learn.",
+    "cta": "See how it works. 10-min call.",
+    "secondary": "See a demo",
     "reassurance": "Typical setup: 7–14 days"
   },
   "problem": {
-    "title": "Two situations. The same hidden cost.",
-    "subtitle": "Whichever applies to you, the result is identical: wasted time, preventable errors, and margin slipping away. ExpertSync solves both.",
+    "title": "This isn't a documentation problem. It's an access problem.",
+    "subtitle": "Your procedures are there. But nobody consults them at the right moment — and that costs you every single day.",
     "items": [
       {
-        "title": "Case 1: Your data is centralized. Nobody uses it.",
-        "description": "You invested months (and thousands of dollars) building a clean knowledge base. But on the floor, your people search for 20 minutes, can't find the answer, and end up calling a senior or improvising. Your investment sits idle, the same mistakes keep happening, and the documentation goes stale without anyone noticing."
+        "title": "Nobody searches your documents.",
+        "description": "Finding the right procedure takes too long. Your employees would rather call a senior, work from memory, or improvise. Result: your documentation investment sits idle while the same mistakes keep happening."
       },
       {
-        "title": "Case 2: Nothing has been centralized yet.",
-        "description": "Critical know-how lives in the heads of 2 or 3 key people. When one of them is out, sick, or retires, production slows down or stops. New hires take months to ramp up, and every gap in knowledge transfer costs you in rework, delays, and unhappy customers."
+        "title": "Your experts answer the same questions all day long.",
+        "description": "Every interruption costs 20 minutes of focus. Multiply that by 5 questions a day, 10 employees, 250 days. That's thousands of hours lost — because the information exists but isn't accessible."
       }
     ]
   },
   "solution": {
-    "title": "An AI that follows your specs. To the letter.",
-    "subtitle": "ExpertSync reads your machine manuals, spec sheets, assembly procedures, and component specifications. It answers strictly based on what's documented. No hallucinations. No guesses.",
+    "title": "A chatbot connected to your procedures.",
+    "subtitle": "Your employees ask their question in plain language — like sending a text. ExpertSync answers in seconds, directly from your documents. No searching. No tool to learn. No training.",
     "features": [
-      "Grounded exclusively in your internal technical documents",
-      "Answers based on your exact specifications, not approximations",
-      "Every answer traces back to the source manual, section, and page",
-      "Designed for shop floor decisions in equipment manufacturing"
+      "Ask a question in plain language, get the answer in seconds",
+      "Grounded exclusively in your internal documents and procedures",
+      "Every answer traces back to the source document, section, and page",
+      "Zero searching, zero training, zero tools to master"
     ],
     "question": "\"What's the torque spec for the M12 flange bolt on the PH-400 hydraulic press?\"",
     "answerLabel": "ExpertSync answer",
@@ -56,19 +56,19 @@
   },
   "howItWorks": {
     "title": "How ExpertSync works",
-    "subtitle": "Intentionally scoped to deliver value fast: one production line, one equipment type, one document corpus. Up and running in 7 to 14 days.",
+    "subtitle": "Your procedures stay your procedures. We just make them accessible in seconds — to anyone, without searching, without training.",
     "steps": [
       {
-        "title": "Select one use case",
-        "description": "Choose a specific area: equipment assembly, preventive maintenance, calibration, quality control, or commissioning."
+        "title": "We ingest your existing documents",
+        "description": "Your manuals, procedures, and spec sheets as they are. No rewriting needed — we work with what you already have."
       },
       {
-        "title": "We ingest your documents",
-        "description": "We validate, structure, and index your machine manuals, spec sheets, and existing procedures. No rewriting needed."
+        "title": "We build your internal chatbot",
+        "description": "In 7 to 14 days, your chatbot is live. It knows your procedures inside out and knows exactly where to look."
       },
       {
-        "title": "Your team gets answers",
-        "description": "Your technicians ask questions in plain language and get exact answers instantly, with full source traceability."
+        "title": "Your employees ask a question",
+        "description": "Like texting a colleague. In seconds, the right answer with the exact source. Nothing to search, nothing to learn, nothing to change in their habits."
       }
     ],
     "note": "Step 1 is deliberately limited so you can validate results before expanding. Typical implementation: 7–14 days."
@@ -131,11 +131,11 @@
     "items": [
       {
         "question": "Is this a replacement for our technical manuals?",
-        "answer": "No. ExpertSync doesn't replace your manuals, it makes them accessible. Your spec sheets and procedures remain the source of truth. ExpertSync helps your technicians find the right specification faster."
+        "answer": "No. ExpertSync doesn't replace your manuals, it makes them accessible. Your spec sheets and procedures remain the source of truth. ExpertSync helps your technicians find the right answer in seconds, without searching."
       },
       {
-        "question": "Can it expand to other production lines?",
-        "answer": "Yes. Step 1 is limited to one use case to validate accuracy. Once proven, ExpertSync can cover all your equipment, production lines, and sites."
+        "question": "Do employees need training to use it?",
+        "answer": "No. It's a chatbot — your employees ask a question in plain language and get an answer. No training, no new tool to learn. If you can send a text, you can use ExpertSync."
       },
       {
         "question": "Is there a free trial?",
@@ -148,10 +148,10 @@
     ]
   },
   "finalCta": {
-    "title": "Stop losing money on preventable errors.",
-    "titleFaded": "10 minutes to see how much you can recover.",
-    "subtitle": "We'll look at your operations together. If ExpertSync can reduce your losses, you'll know in 10 minutes. No pitch. No pressure.",
-    "cta": "Calculate my preventable losses"
+    "title": "Your procedures already exist.",
+    "titleFaded": "You just need to make them accessible.",
+    "subtitle": "A chatbot connected to your documents in 7 to 14 days. Your teams get the right answers instantly — no searching, no training, no depending on an expert.",
+    "cta": "See how it works. 10-min call."
   },
   "footer": {
     "rights": "© {{year}} ExpertSync. All rights reserved."
@@ -159,34 +159,34 @@
   "industriel": {
     "hero": {
       "badge": "Manufacturing · Distribution · Processing",
-      "title": "Every repeated question costs you time, money, and margin.",
-      "titleFaded": "",
-      "subtitle": "Production errors, downtime, overloaded senior staff. When information is scattered, your profitability absorbs the hit. ExpertSync eliminates those losses by making operational knowledge accessible in seconds.",
-      "cta": "See how much you're losing. 10-min call.",
+      "title": "Your procedures exist.",
+      "titleFaded": "Your technicians don't consult them.",
+      "subtitle": "They search for 10 minutes in a PDF, can't find it, and call a senior or improvise. ExpertSync turns your procedures into a chatbot: the right answer in seconds. No searching. Nothing to learn.",
+      "cta": "See how it works. 10-min call.",
       "reassurance": "Typical setup: 7–14 days"
     },
     "problem": {
-      "title": "Two scenarios. The same hole in your margin.",
-      "subtitle": "Whether you've centralized or not, the cost is real: errors, rework, downtime, and overloaded staff. ExpertSync tackles both.",
+      "title": "The real problem isn't documentation. It's access.",
+      "subtitle": "Your procedures are there. But on the floor, nobody consults them — and that costs you every shift.",
       "items": [
         {
-          "title": "Case 1: Your documentation exists. Nobody uses it.",
-          "description": "You invested in building procedures, manuals, and spec sheets. But on the floor, technicians would rather call a senior or work from memory than spend 20 minutes searching a PDF. Your documentation investment sits idle, the same mistakes keep happening, and the content goes stale without anyone noticing."
+          "title": "Searching takes too long. So nobody searches.",
+          "description": "On the floor, finding the right manual, the right section, the right version takes 10 to 20 minutes. Your technicians don't have that time. So they call a senior, work from memory, or improvise. Your documentation is there — but it's invisible."
         },
         {
-          "title": "Case 2: All the know-how lives in 2 or 3 heads.",
-          "description": "Nothing is centralized. When one of your experts is out or retires, production slows down. New hires take months to become autonomous, and every verbal handoff opens the door to costly mistakes: rework, non-conformities, delivery penalties."
+          "title": "Result: the same mistakes, the same calls, over and over.",
+          "description": "Your senior experts spend their day answering the same questions. Preventable errors repeat shift after shift. And everyone has gotten used to it — because nobody knows there's a better way."
         }
       ]
     },
     "solution": {
-      "title": "An AI that follows your rules. Literally.",
-      "subtitle": "ExpertSync reads your procedures, manuals, and internal rules. It answers questions strictly based on what's documented. No hallucinations. No guesses. No creative interpretation.",
+      "title": "A chatbot connected to your procedures.",
+      "subtitle": "Your technicians type their question in plain language. ExpertSync answers in seconds, directly from your manuals and procedures. No searching. No tool to learn. No training required.",
       "features": [
-        "Grounded exclusively in your internal documents",
-        "Answers based on explicit rules, not probabilities",
-        "Every answer traces back to its source document",
-        "Designed for real operational decisions, not creative tasks"
+        "Ask a question like you'd text a colleague, get the answer in seconds",
+        "Grounded exclusively in your internal procedures and documents",
+        "Every answer traces back to the source document, section, and page",
+        "Zero searching, zero training, zero tools to master"
       ],
       "question": "\"What's the torque spec for the M12 flange bolt on Line 3?\"",
       "answerLabel": "ExpertSync answer",
@@ -197,19 +197,19 @@
     },
     "howItWorks": {
       "title": "How ExpertSync works",
-      "subtitle": "Intentionally scoped to deliver value fast: one team, one use case, one document corpus. Up and running in 7 to 14 days.",
+      "subtitle": "Your procedures stay your procedures. We make them accessible in seconds — without changing your team's habits.",
       "steps": [
         {
-          "title": "Select one use case",
-          "description": "Choose a specific operational area: inspections, maintenance procedures, quality checklists, production protocols, or processing guidelines."
+          "title": "We ingest your existing documents",
+          "description": "Maintenance manuals, quality procedures, production protocols — as they are. No rewriting, we work with what you already have."
         },
         {
-          "title": "We ingest your documents",
-          "description": "We validate, structure, and index your existing manuals and procedures. No rewriting needed, we work with what you already have."
+          "title": "We build your internal chatbot",
+          "description": "In 7 to 14 days, your chatbot is live. It knows your procedures inside out and knows exactly where to look in your documents."
         },
         {
-          "title": "Your team gets answers",
-          "description": "Field teams ask questions in plain language and get rule-accurate answers instantly, with full source traceability."
+          "title": "Your technicians ask a question",
+          "description": "Like sending a text. In seconds, the right answer with the exact source. Nothing to search, nothing to learn, nothing to change on the floor."
         }
       ],
       "note": "Step 1 is deliberately limited so you can validate results before expanding. Typical implementation: 7–14 days."
@@ -256,7 +256,7 @@
       "included": [
         "One use case, one team",
         "Document ingestion & validation",
-        "Rule-accurate AI answers",
+        "Chatbot connected to your procedures",
         "Source traceability on every answer",
         "Dedicated support during pilot"
       ],
@@ -267,11 +267,11 @@
       "items": [
         {
           "question": "Is this a replacement for our procedures?",
-          "answer": "No. ExpertSync does not replace your procedures, it makes them accessible. Your manuals and SOPs remain the single source of truth."
+          "answer": "No. ExpertSync does not replace your procedures, it makes them accessible. Your manuals and SOPs remain the single source of truth. ExpertSync helps your teams get the right information in seconds, without searching."
         },
         {
-          "question": "Can it expand to other teams later?",
-          "answer": "Yes. Step 1 is intentionally limited to one team and one use case so you can validate accuracy and value."
+          "question": "Do technicians need training to use it?",
+          "answer": "No. It's a chatbot — your technicians ask their question in plain language, like a text. No training, no new tool to learn. Adoption happens naturally."
         },
         {
           "question": "Is there a free trial?",
@@ -284,42 +284,43 @@
       ]
     },
     "finalCta": {
-      "title": "Stop losing money on preventable errors.",
-      "titleFaded": "10 minutes to see how much you can recover.",
-      "subtitle": "We'll look at your operations together. If ExpertSync can reduce your losses, you'll know in 10 minutes. No pitch. No pressure.",
-      "cta": "Calculate my preventable losses"
+      "title": "Your procedures already exist.",
+      "titleFaded": "You just need to make them accessible.",
+      "subtitle": "A chatbot connected to your documents in 7 to 14 days. Your technicians get the right answers instantly — no searching, no calling a senior, no training.",
+      "cta": "See how it works. 10-min call."
     }
   },
   "financier": {
     "hero": {
-      "badge": "Step 1: Start with one use case",
-      "title": "Your teams waste time searching for the right regulatory answer?",
-      "subtitle": "ExpertSync gives your financial services teams instant access to exact answers, based solely on your internal policies and regulatory frameworks.",
+      "badge": "Financial Services",
+      "title": "Your policies exist.",
+      "titleFaded": "Nobody consults them.",
+      "subtitle": "Your advisors and analysts call compliance or act from memory rather than open an 80-page document. ExpertSync turns your policies into a chatbot: the right regulatory answer in seconds. No searching. Nothing to learn.",
       "cta": "Request a 10-minute fit call",
       "reassurance": "Typical setup: 7–14 days"
     },
     "problem": {
-      "title": "Two realities. The same regulatory risk.",
-      "subtitle": "Whether your policies are centralized or not, your teams make decisions every day. Without access to the right answer, the risk is the same.",
+      "title": "The real problem isn't documentation. It's access.",
+      "subtitle": "Your policies are there. But nobody reads them at the right moment — and regulatory risk quietly builds up.",
       "items": [
         {
-          "title": "Case 1: Your policies are centralized. Nobody reads them.",
-          "description": "You invested in building a library of policies, guidelines, and procedures. But in the field, advisors and analysts call compliance or rely on memory rather than open an 80-page document. The result: rules applied from memory, outdated versions in use, and regulatory risk quietly building up."
+          "title": "Nobody reads an 80-page document to find one answer.",
+          "description": "Finding the right policy, the right section, the right version takes too long. Your teams call compliance or act from memory. Result: rules applied approximately, outdated versions in use, and regulatory risk quietly building up."
         },
         {
-          "title": "Case 2: Nothing is centralized. Everything routes through 2 or 3 experts.",
-          "description": "The rules live in the heads of a few overloaded compliance officers. Every question queues up, every absence slows the organization, and new hires take months to become autonomous. Each blind spot turns into a costly non-compliance finding at the next audit."
+          "title": "Your compliance experts are drowning in repetitive questions.",
+          "description": "The same questions, the same calls, all day long. Your compliance officers never have time for real high-value work. And every question that isn't answered immediately is a decision made without the right information."
         }
       ]
     },
     "solution": {
-      "title": "An AI that follows your rules. To the letter.",
-      "subtitle": "ExpertSync reads your policies, regulatory frameworks, and internal procedures. It answers strictly based on what's documented. No hallucinations. No creative interpretation.",
+      "title": "A chatbot connected to your policies and regulatory frameworks.",
+      "subtitle": "Your teams ask their question in plain language. ExpertSync answers in seconds, directly from your internal policies. No searching. No tool to learn. No training required.",
       "features": [
+        "Ask a question in plain language, get the answer in seconds",
         "Grounded exclusively in your internal documents and policies",
-        "Answers based on explicit rules, not probabilities",
-        "Every answer traces back to its source: policy, section, page",
-        "Designed for compliance and regulatory decisions"
+        "Every answer traces back to the source policy, section, and page",
+        "Zero searching, zero training, zero tools to master"
       ],
       "questionLabel": "Question",
       "question": "\"What are the KYC requirements for a high-risk client under AML guidelines?\"",
@@ -329,19 +330,19 @@
     },
     "howItWorks": {
       "title": "How ExpertSync works",
-      "subtitle": "Intentionally scoped to deliver value fast: one team, one use case, one document corpus. Up and running in 7 to 14 days.",
+      "subtitle": "Your policies stay your policies. We make them accessible in seconds — without changing your teams' habits.",
       "steps": [
         {
-          "title": "Select one use case",
-          "description": "Choose a specific area: KYC/AML compliance, audit procedures, credit policies, risk management guidelines, or industry regulations."
+          "title": "We ingest your existing documents",
+          "description": "Internal policies, regulatory frameworks, audit procedures — as they are. No rewriting needed."
         },
         {
-          "title": "We ingest your documents",
-          "description": "We validate, structure, and index your existing policies and procedures. No rewriting needed."
+          "title": "We build your internal chatbot",
+          "description": "In 7 to 14 days, your chatbot is live. It knows your policies and regulations inside out."
         },
         {
-          "title": "Your team gets answers",
-          "description": "Your teams ask questions in plain language and get compliant answers instantly, with full source traceability."
+          "title": "Your teams ask a question",
+          "description": "Like sending a text. In seconds, the right answer with the exact source. Nothing to search, nothing to learn."
         }
       ]
     },
@@ -386,7 +387,7 @@
       "included": [
         "One use case, one team",
         "Regulatory document ingestion & validation",
-        "Policy-compliant AI answers",
+        "Chatbot connected to your policies",
         "Source traceability on every answer",
         "Dedicated support during pilot"
       ],
@@ -397,15 +398,15 @@
       "items": [
         {
           "question": "Does this replace our compliance team?",
-          "answer": "No. ExpertSync doesn't replace your compliance team, it makes them more effective."
+          "answer": "No. ExpertSync doesn't replace your compliance team, it frees them from repetitive questions. Your policies remain the source of truth. Your experts can focus on real high-value work."
         },
         {
-          "question": "Can it expand to other departments?",
-          "answer": "Yes. Step 1 targets one team and one use case to validate value. Then ExpertSync can cover other areas: credit, risk, audit, operations."
+          "question": "Do teams need training to use it?",
+          "answer": "No. It's a chatbot — your teams ask their question in plain language, like a text. No training, no new tool to learn."
         },
         {
           "question": "Is it compliant with regulatory requirements?",
-          "answer": "ExpertSync is built with compliance in mind: isolated data, full traceability, built-in audit trail."
+          "answer": "ExpertSync is built with compliance in mind: isolated data, full traceability, built-in audit trail. It can be deployed in your infrastructure to meet the strictest requirements."
         },
         {
           "question": "Who is this designed for?",
@@ -414,9 +415,9 @@
       ]
     },
     "finalCta": {
-      "title": "Start with one use case. Prove the value.",
-      "titleFaded": "Expand only if it makes sense.",
-      "subtitle": "A 10-minute call to see if ExpertSync fits your institution. No pitch deck. No pressure.",
+      "title": "Your policies already exist.",
+      "titleFaded": "You just need to make them accessible.",
+      "subtitle": "A chatbot connected to your documents in 7 to 14 days. Your teams get the right regulatory answers instantly — no searching, no calling compliance, no training.",
       "cta": "Request a 10-minute fit call"
     }
   }
