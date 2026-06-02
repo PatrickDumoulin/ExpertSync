@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rule-rule-ai.lovable.app/sitemap.xml
+Sitemap: https://expert-sync.com/sitemap.xml
